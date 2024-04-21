@@ -1,0 +1,1 @@
+{"id":1713689483713,"seed":178779310837,"version":1713689483713,"name":"Level","brief":"","default":"","author":"","files":[],"values":"enum(-1,0,1,2)","valueParam":[{"type":"enum","exp":"enum(-1,0,1,2)","optiontmp":["-1","0","1","2"],"optionRemarks":[null,null,null,null],"repeat":1}],"scopes":[]}
